@@ -11,7 +11,6 @@ export const AppContainer = styled.div`
 `
 export const MenuContainer = styled.div`
   max-width:100%;
-  background:blue; 
   display:flex;
   flex-direction:column;
   justify-content: center;
